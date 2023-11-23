@@ -1,7 +1,12 @@
 import React from "react";
+import Bottom from "../common/Bottom";
 
 function MyPage() {
-    return <div>MyPage</div>;
+    return (
+        <div className="bottom">
+            <Bottom />
+        </div>
+    );
 }
 
 export default MyPage;

@@ -1,6 +1,6 @@
 import React from "react";
 import { Icon } from "@iconify/react";
-import Bottom from "../pages/Bottom";
+import Bottom from "../common/Bottom";
 import ImgSlide from "./ImgSlide";
 
 function Home() {
