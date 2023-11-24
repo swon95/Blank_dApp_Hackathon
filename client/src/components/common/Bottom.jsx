@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 const Bottom = () => {
     return (
-        <nav className="w-full flex justify-evenly fixed bottom-0 mb-4">
+        <nav className="w-full flex justify-evenly fixed bottom-0 p-4 bg-white">
             {/* 하단 네비게이션 최상위 태그 */}
             <Link
                 to="/Home"
