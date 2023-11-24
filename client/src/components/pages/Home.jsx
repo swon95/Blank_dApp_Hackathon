@@ -1,7 +1,7 @@
 import React from "react";
 import { Icon } from "@iconify/react";
 import Bottom from "../common/Bottom";
-import ImgSlide from "./ImgSlide";
+import ImgSlide from "./../common/ImgSlide";
 
 const dummydata = [
     {
